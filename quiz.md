@@ -42,7 +42,7 @@
 - A: Press F12 on the keyboard
 - B: Right-click on the browser and select “Inspect”
 - C: Press Ctrl+Shift+I on the keyboard
-- D: All of the above
+- D: All of the above <--
 ---
 
 ### Q8: Each programming language has a unique set of keywords and a special syntax for instructions
@@ -51,7 +51,7 @@
 ---
 
 ### Q9: A ___ is used to change source code to object code?
-- A: Compiler
+- A: Compiler <--
 - B: Interpreter
 - C: Reader
 - D: None of the above
